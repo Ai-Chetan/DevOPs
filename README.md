@@ -1,3 +1,3 @@
 # DevOPs
 
-This is a sample repository for DevOPs Lab
+This is a sample repository for DevOPs Lab.
